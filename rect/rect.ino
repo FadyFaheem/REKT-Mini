@@ -84,8 +84,7 @@ float calculateRPM(unsigned long duration)
 /** Setup code */
 void setup()
 {
-  Serial.begin(9600);
-  Serial.println(F("RECT: Rotary Engine Compression Tester"));
+
 
   // Calibration routine
   Serial.println(F("Calibrating; do not crank engine…"));

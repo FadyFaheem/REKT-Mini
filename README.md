@@ -1,2 +1,2 @@
 # REKT-Mini
-A Rotary Compression Tool. No one should have to pay $200+ to figure out if there motor is about to end or not. This elimantes the cost and limit it down to create each compression tool just a little over $30 dollars. With the help of other repos this will be undecidedly the cheapest Rotary Compresion Tool.
+Designed and implemented a custom rotary engine compression measurement tool with custom PCB and ATTiny85 firmware; validated compression across 6+ engines and reduced diagnostic cost from $200+ to <$30.

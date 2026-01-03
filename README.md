@@ -1,2 +1,2 @@
 # REKT-Mini
-Designed and implemented a custom rotary engine compression measurement tool with custom PCB and ATTiny85 firmware; validated compression across 6+ engines and reduced diagnostic cost from $200+ to <$30.
+Built an embedded sensor data acquisition system with custom firmware (ATTiny85) and Python data processing pipeline, implementing real-time sensor fusion and calibration algorithms that reduced measurement time by ~85% compared to manual methods across 4+ validation runs.
